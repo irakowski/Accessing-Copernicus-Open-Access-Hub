@@ -17,7 +17,7 @@ the range for number of product results got decreased by 100 times.
 6. Checks downloaded files md5checksum.
 6. Saves filename, path, and md5checksum to database if both, downloaded file checksum and checksum provided by Open Access match.
 
-![Program flow](/assets/34.png?raw=true)
+![Program flow](assets/34.png?raw=true)
 
 
 
